@@ -19,3 +19,7 @@ class box():
                 else:
                     print(" ",end=" ")
             print()
+
+# Create 3x3 Box and Draw             
+box3x3 = box(3,3)
+box3x3.draw()
