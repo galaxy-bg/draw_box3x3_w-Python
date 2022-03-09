@@ -7,4 +7,4 @@ $ box6x6.draw()
 ```
 
 
-![im_name](images/box6x6.jpg)
+![im_name](box6x6.jpg)
